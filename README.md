@@ -1,7 +1,6 @@
 # index_search
 Search algorithm implemented for Helsinki university
 
-
 Using Git & Eclipse
 
 To clone the project from within Eclipse, 
