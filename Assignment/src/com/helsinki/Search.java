@@ -104,6 +104,7 @@ public class Search {
 		int matchposition = 0;
 		DecimalFormat format = new DecimalFormat("#");
 
+		System.out.println("\nSearching Starts Here !!\n");
 		if (inkeyString.length() == 0 || inkeyString.equals(null)) {
 			System.out.println("p doesn't match t and the search ends");
 			System.exit(0);
@@ -144,6 +145,8 @@ public class Search {
 
 			}
 
+			
+			System.out.println("");
 		}
 
 		if (flag == true) {
@@ -188,6 +191,7 @@ public class Search {
 	 */
 	public void display(InputString[] inputStringArray) {
 
+		System.out.println("Suffix Table");
 		for (int i = 0; i < inStringLength; i++) {
 			System.out.println("Index= " + inputStringArray[i].index + "  "
 					+ inputStringArray[i].toString());
