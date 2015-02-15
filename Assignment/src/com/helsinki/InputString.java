@@ -1,6 +1,5 @@
 package com.helsinki;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class InputString.
  */
@@ -88,8 +87,8 @@ public class InputString {
 		this.suffindex = suffindex;
 	}
 
-	/* (non-Javadoc)
-	 * @see java.lang.Object#toString()
+	/* 
+	 * toString method to print object values
 	 */
 	@Override
 	public String toString() {

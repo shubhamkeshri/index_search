@@ -9,7 +9,8 @@ import java.util.Comparator;
 public class AlphabeticComparator implements Comparator {
 
 	/*
-	 * Method compare which returns negative,zero or positive integer if string string2 is alphabetically 
+	 * Method compare which returns negative,zero or positive integer if string
+	 * string2 is alphabetically
 	 */
 	@Override
 	public int compare(Object arg0, Object arg1) {
