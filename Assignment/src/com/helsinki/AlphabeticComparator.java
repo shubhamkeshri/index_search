@@ -6,7 +6,7 @@ import java.util.Comparator;
  * The Class AlphabeticComparator, a comparator class to compare two strings
  * alphabetically.
  */
-public class AlphabeticComparator implements Comparator {
+public class AlphabeticComparator implements Comparator<Object> {
 
 	/*
 	 * Method compare which returns negative,zero or positive integer if string
