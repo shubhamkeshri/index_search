@@ -1,5 +1,5 @@
 # index_search
-Search algorithm implemented for Helsinki university
+Search algorithm implemented for University of Helsinki
 
 # Using Git & Eclipse
 
